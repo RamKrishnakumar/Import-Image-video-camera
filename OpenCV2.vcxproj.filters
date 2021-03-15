@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="basicfunctions_OpenCV.cpp">
+    <ClCompile Include="Image-Resize_and_Crop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
