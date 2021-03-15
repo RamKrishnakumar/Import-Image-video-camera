@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Img-Vid-Camera.cpp">
+    <ClCompile Include="basicfunctions_OpenCV.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
