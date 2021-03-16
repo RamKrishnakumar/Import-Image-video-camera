@@ -73,6 +73,7 @@ void main() {
 
 ////////////////// To create circles on point that we have have selected to do the warping /////////////////////////////////////////////////////////////////////////////////////////
 
+
 			for (int i = 0; i < 4; i++) {
 				circle(img, kingsrc[i], 6, Scalar(0, 0, 255), FILLED); // to mark corner points of king card with circle
 				circle(img, queensrc[i], 6, Scalar(0, 0, 255), FILLED);// to mark corner points of queen card with circle

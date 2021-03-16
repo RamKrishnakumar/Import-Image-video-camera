@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="5Wrap-Prespective.cpp">
+    <ClCompile Include="6Color-Detection.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
