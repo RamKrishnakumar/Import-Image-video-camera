@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="6Color-Detection.cpp">
+    <ClCompile Include="7Shapes-Detection.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
